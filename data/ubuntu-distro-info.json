@@ -33,7 +33,7 @@
     "series": "edgy",
     "created": "2006-06-01",
     "release": "2006-10-26",
-    "eol": "2008-04-26"
+    "eol": "2008-04-25"
   },
   "v7.04": {
     "codename": "Feisty Fawn",
@@ -114,7 +114,7 @@
     "release": "2012-04-26",
     "eol": "2017-04-28",
     "eol_server": "2017-04-28",
-    "eol_esm": "2019-04-28"
+    "eol_esm": "2019-04-26"
   },
   "v12.10": {
     "codename": "Quantal Quetzal",
@@ -144,7 +144,8 @@
     "release": "2014-04-17",
     "eol": "2019-04-25",
     "eol_server": "2019-04-25",
-    "eol_esm": "2024-04-25"
+    "eol_esm": "2024-04-25",
+    "eol_legacy": "2029-04-26"
   },
   "v14.10": {
     "codename": "Utopic Unicorn",
@@ -172,9 +173,10 @@
     "series": "xenial",
     "created": "2015-10-22",
     "release": "2016-04-21",
-    "eol": "2021-04-21",
-    "eol_server": "2021-04-21",
-    "eol_esm": "2026-04-23"
+    "eol": "2021-04-30",
+    "eol_server": "2021-04-30",
+    "eol_esm": "2026-04-23",
+    "eol_legacy": "2031-04-30"
   },
   "v16.10": {
     "codename": "Yakkety Yak",
@@ -204,7 +206,8 @@
     "release": "2018-04-26",
     "eol": "2023-05-31",
     "eol_server": "2023-05-31",
-    "eol_esm": "2028-04-26"
+    "eol_esm": "2028-04-26",
+    "eol_legacy": "2033-04-28"
   },
   "v18.10": {
     "codename": "Cosmic Cuttlefish",
@@ -234,7 +237,8 @@
     "release": "2020-04-23",
     "eol": "2025-05-29",
     "eol_server": "2025-05-29",
-    "eol_esm": "2030-04-23"
+    "eol_esm": "2030-04-23",
+    "eol_legacy": "2035-04-26"
   },
   "v20.10": {
     "codename": "Groovy Gorilla",
@@ -264,7 +268,8 @@
     "release": "2022-04-21",
     "eol": "2027-06-01",
     "eol_server": "2027-06-01",
-    "eol_esm": "2032-04-21"
+    "eol_esm": "2032-04-21",
+    "eol_legacy": "2037-04-30"
   },
   "v22.10": {
     "codename": "Kinetic Kudu",
@@ -279,5 +284,60 @@
     "created": "2022-10-20",
     "release": "2023-04-20",
     "eol": "2024-01-25"
+  },
+  "v23.10": {
+    "codename": "Mantic Minotaur",
+    "series": "mantic",
+    "created": "2023-04-20",
+    "release": "2023-10-12",
+    "eol": "2024-07-11"
+  },
+  "v24.04": {
+    "codename": "Noble Numbat",
+    "series": "noble",
+    "created": "2023-10-12",
+    "release": "2024-04-25",
+    "eol": "2029-05-31",
+    "eol_server": "2029-05-31",
+    "eol_esm": "2034-04-25",
+    "eol_legacy": "2039-04-28"
+  },
+  "v24.10": {
+    "codename": "Oracular Oriole",
+    "series": "oracular",
+    "created": "2024-04-25",
+    "release": "2024-10-10",
+    "eol": "2025-07-10"
+  },
+  "v25.04": {
+    "codename": "Plucky Puffin",
+    "series": "plucky",
+    "created": "2024-10-10",
+    "release": "2025-04-17",
+    "eol": "2026-01-15"
+  },
+  "v25.10": {
+    "codename": "Questing Quokka",
+    "series": "questing",
+    "created": "2025-04-17",
+    "release": "2025-10-09",
+    "eol": "2026-07-09"
+  },
+  "v26.04": {
+    "codename": "Resolute Raccoon",
+    "series": "resolute",
+    "created": "2025-10-09",
+    "release": "2026-04-23",
+    "eol": "2031-05-29",
+    "eol_server": "2031-05-29",
+    "eol_esm": "2036-04-23",
+    "eol_legacy": "2041-04-30"
+  },
+  "v26.10": {
+    "codename": "Stonking Stingray",
+    "series": "stonking",
+    "created": "2026-04-24",
+    "release": "2026-10-15",
+    "eol": "2027-07-15"
   }
 }
